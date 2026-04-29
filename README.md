@@ -1,7 +1,5 @@
 # Cancer Type Prediction Using Machine Learning and Web Application
 
-MCA Capstone Project — Lovely Professional University, 2026
-
 This project predicts the type of cancer from gene expression data using machine learning and provides a web application for easy access.
 
 **Live App:** https://cancer-type-predictor01.streamlit.app/
